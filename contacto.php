@@ -16,5 +16,9 @@
     </form>
 
 </section>
+<?php
+if (isset($_GET['ok']))
+    echo " <h3> Su mensaje ha sido enviado con exito! </h3>";
+?>
 
 <?php include("footer.php")?>
