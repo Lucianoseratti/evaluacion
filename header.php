@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="servicios.php">Nuestros Servicios</a></li>
-                <li><a href="Contacto.php">Contacto</a></li>
+                <li><a href="contacto.php">Contacto</a></li>
             </ul>
         </nav>
 
